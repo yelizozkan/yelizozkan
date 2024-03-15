@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/yelizozkan/yelizozkan/blob/main/My-OctocatsShortest.gif"  />
+<img align="right" height="200" src="https://github.com/yelizozkan/yelizozkan/blob/main/My-OctocatsShortest.gif"  />
 
 ###
 
